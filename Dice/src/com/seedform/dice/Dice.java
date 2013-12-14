@@ -27,7 +27,8 @@ import java.awt.event.*;
 import javax.swing.*;
 
 /**
- * Oct 25, 2011 Randomly rolls 2 virtual dice when the user presses a key and
+ * Oct 25, 2011 
+ * Randomly rolls 2 virtual dice when the user presses a key and
  * displays them on a JPanel within a JFrame.
  * 
  * @author Shudmanul Chowdhury
