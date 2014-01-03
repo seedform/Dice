@@ -1,6 +1,7 @@
 Dice
 =
 Just two dice. Nothing else here. Run <b>Dice.jar</b> to execute the application.
+<a href="https://github.com/seedform/Dice/blob/master/Dice.jar?raw=true">Click here to download Dice.jar.</a>
 
 <div align="center">
 	<img src="screenshot.PNG"></p>
